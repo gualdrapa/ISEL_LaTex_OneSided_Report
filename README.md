@@ -1,5 +1,5 @@
 ## One-sided layout for reports at ISEL
-This is a one-sided layout for reports at ISEL. It was used for reports in the Instituto Superior de Engenharia de Lisboa in 2019. The structure and requirements should always be checked with the professor and the institutional identity standards. 
+This is a one-sided layout for reports at ISEL. It was used for reports in the Instituto Superior de Engenharia de Lisboa in 2019. The structure and requirements should always be checked with the professor and the institutional identity standards. Despite having some parts of text in English and German (only for example) the structure of the document is made in Portuguese.
 The structures was adapted from Sven Hinz (https://github.com/SvenHinz). 
 
 Comments in the document describe the functions of the code. 
